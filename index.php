@@ -28,7 +28,7 @@ $logoB64  = file_exists($logoPath)
       <div class="brand-icon">🏪</div>
     <?php endif; ?>
     <div class="brand-text">
-      <span class="brand-name">Susana Store</span>
+      <span class="brand-name">Tindahan ni Manong</span>
       <span class="brand-sub">INVENTORY &amp; POS SYSTEM</span>
     </div>
   </a>
