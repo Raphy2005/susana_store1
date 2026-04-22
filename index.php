@@ -18,7 +18,7 @@ $logoB64  = file_exists($logoPath)
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-
+<!-- wet76deudtudtuidtuidtuqwidtuqwi -->
 <!-- ══ NAVBAR ══════════════════════════════════════════════════ -->
 <nav class="navbar">
   <a class="brand" href="#">
